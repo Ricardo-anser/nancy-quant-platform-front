@@ -21,7 +21,8 @@
     "jsx": "react-jsx",
     "lib": ["ESNext", "DOM"],
     "skipLibCheck": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "types": ["element-plus/global"]
     // 其他配置...
   }
 }
